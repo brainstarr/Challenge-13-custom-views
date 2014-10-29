@@ -85,9 +85,9 @@
 			children = (
 				00BC5BC41A00735700FAEF8F /* AppDelegate.h */,
 				00BC5BC51A00735700FAEF8F /* AppDelegate.m */,
+				00BC5BCD1A00735700FAEF8F /* Main.storyboard */,
 				00BC5BCA1A00735700FAEF8F /* ViewController.h */,
 				00BC5BCB1A00735700FAEF8F /* ViewController.m */,
-				00BC5BCD1A00735700FAEF8F /* Main.storyboard */,
 				00BC5BD01A00735700FAEF8F /* Images.xcassets */,
 				00BC5BD21A00735700FAEF8F /* LaunchScreen.xib */,
 				00BC5BC71A00735700FAEF8F /* View_Objects_In_Code.xcdatamodeld */,
